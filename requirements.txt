@@ -1,0 +1,12 @@
+django
+requests
+Pillow
+numpy
+pandas
+pytesseract
+pdf2image
+scikit-image
+scikit-learn
+openpyxl
+opencv-python
+# add other dependencies here
